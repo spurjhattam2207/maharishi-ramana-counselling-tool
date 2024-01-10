@@ -1,1 +1,1 @@
-# maharishi-ramana-counselling-tool
+# Maharishi Ramana Counselling Tool
